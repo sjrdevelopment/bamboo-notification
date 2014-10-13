@@ -1,0 +1,15 @@
+# Depedencies
+node_modules
+bower_components
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+*.sublime-project
+
+# Ignore .svn files anywhere
+.svn
